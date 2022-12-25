@@ -1,11 +1,13 @@
 # AVL_System
+Karamsetty Kaushik
+
 Automatic Vehicle Log System(AVL) is an automated system, used to track vehicles by detetcting the license plate automatically
 Let's take a look how does avl works on this image.
 
 ![image](https://user-images.githubusercontent.com/60555992/208691000-46cee17d-2ab1-44c5-adc3-e5aed14f8819.png)
 
 
-###We are having 4 stages :
+# We are having 4 stages :
 
 1.Use openCV to detect the number plate.
  - OpenCV uses two types of classifiers, LBP (Local Binary Pattern) and Haar Cascades
